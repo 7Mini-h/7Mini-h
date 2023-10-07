@@ -2,6 +2,8 @@
 
 I'm a Unity developer, and I have been in this field since 2021!
 
+I have a Oculus Quest2 for VR/AR :)
+
 [![Unity](https://img.shields.io/badge/-Unity-57b9d3.svg?style=plastic&logo=unity)](https://unity3d.com)
 <!--
 **7Mini-h/7Mini-h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
