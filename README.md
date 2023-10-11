@@ -2,7 +2,7 @@
 
 I'm a Unity developer, and I have been in this field since 2021!
 
-I have a Oculus Quest2 for VR/AR :)
+I have a Oculus Quest2 for VR :)
 
 [![Unity](https://img.shields.io/badge/-Unity-57b9d3.svg?style=plastic&logo=unity)](https://unity3d.com)
 <!--
