@@ -7,7 +7,7 @@ I have a Oculus Quest2 for VR :)
 [![Unity](https://img.shields.io/badge/-Unity-57b9d3.svg?style=plastic&logo=unity)](https://unity3d.com)
 
 ___
-* Personal Work
+* Personal Work <br> >> *https://github.com/7Mini-h/UnityStudyProject*
 
 |Title|Capture|
 |--|--|
